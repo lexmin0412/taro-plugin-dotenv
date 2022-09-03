@@ -1,3 +1,3 @@
 # taro-plugin-dotenv
 
-.env 环境变量替换插件。
+.env 环境变量注入插件。
