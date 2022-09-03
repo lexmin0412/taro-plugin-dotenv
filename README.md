@@ -1,3 +1,3 @@
-# taro-plugin-template
+# taro-plugin-dotenv
 
-taro 2.x插件模版。
+.env 环境变量替换插件。
